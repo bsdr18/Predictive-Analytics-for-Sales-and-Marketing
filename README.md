@@ -5,7 +5,6 @@
 ### PROJECT OVERVIEW
 - ```Sales prediction``` poses a formidable challenge for businesses, attributed to factors such as limited ```historical data```, unpredictable external variables like weather, natural occurrences, government regulations, and primarily the ```dynamic nature``` of the market.
 - This project is dedicated to implementing diverse ```forecasting``` techniques for predicting sales at Olist, a Brazilian E-Commerce startup.
-- The "data" directory contains the originally obtained data from Kaggle, while the "data_cleaned" directory includes six .csv files representing cleaned data. Among these files, a master table has been created, serving as the final dataset utilized for modeling.
 - The project encompasses two notebooks:
   1. "Data_cleaning" serves as the initial notebook, loading the raw data, executing cleaning procedures, and amalgamating all tables into the master dataset.
   2. "Time_series" is the subsequent notebook, where various modeling techniques for time series forecasting have been explored.
