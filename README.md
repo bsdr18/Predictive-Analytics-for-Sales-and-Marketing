@@ -1,6 +1,6 @@
 # Predictive-Analytics-for-Sales-and-Marketing
 
-## Project Title:
+## Project Title: A Comprehensive Time Series Analysis for Dynamic Sales Forecasting
 
 ### PROJECT OVERVIEW
 - ```Sales prediction``` poses a formidable challenge for businesses, attributed to factors such as limited ```historical data```, unpredictable external variables like weather, natural occurrences, government regulations, and primarily the ```dynamic nature``` of the market.
